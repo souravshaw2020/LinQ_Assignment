@@ -1,0 +1,9 @@
+F:\Linq Assignment\ReadCSV\ReadCSV\bin\Debug\ReadCSV.exe.config
+F:\Linq Assignment\ReadCSV\ReadCSV\bin\Debug\ReadCSV.exe
+F:\Linq Assignment\ReadCSV\ReadCSV\bin\Debug\ReadCSV.pdb
+F:\Linq Assignment\ReadCSV\ReadCSV\obj\Debug\ReadCSV.csproj.AssemblyReference.cache
+F:\Linq Assignment\ReadCSV\ReadCSV\obj\Debug\ReadCSV.csproj.CoreCompileInputs.cache
+F:\Linq Assignment\ReadCSV\ReadCSV\obj\Debug\ReadCSV.exe
+F:\Linq Assignment\ReadCSV\ReadCSV\obj\Debug\ReadCSV.pdb
+F:\Linq Assignment\ReadCSV\ReadCSV\bin\Debug\LINQtoCSV.dll
+F:\Linq Assignment\ReadCSV\ReadCSV\obj\Debug\ReadCSV.csproj.CopyComplete
