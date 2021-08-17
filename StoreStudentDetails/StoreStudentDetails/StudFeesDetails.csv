@@ -1,0 +1,5 @@
+﻿StudentId,Amount To Pay,Fees Collected,Date Paid,Bus Pickup Point,Bus Number,Bus DriverId
+1,1500,10000,25th Jan,Andheri,MH-48,101
+2,7050,0,NULL,Dumdum,WB-28,102
+3,8750,0,NULL,Noida,DL-14,103
+4,1300,8500,27th Jan,Madras,TN-32,104
