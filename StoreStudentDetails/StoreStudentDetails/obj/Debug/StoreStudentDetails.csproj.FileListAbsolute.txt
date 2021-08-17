@@ -1,0 +1,7 @@
+F:\Linq Assignment\StoreStudentDetails\StoreStudentDetails\bin\Debug\StoreStudentDetails.exe.config
+F:\Linq Assignment\StoreStudentDetails\StoreStudentDetails\bin\Debug\StoreStudentDetails.exe
+F:\Linq Assignment\StoreStudentDetails\StoreStudentDetails\bin\Debug\StoreStudentDetails.pdb
+F:\Linq Assignment\StoreStudentDetails\StoreStudentDetails\obj\Debug\StoreStudentDetails.csproj.AssemblyReference.cache
+F:\Linq Assignment\StoreStudentDetails\StoreStudentDetails\obj\Debug\StoreStudentDetails.csproj.CoreCompileInputs.cache
+F:\Linq Assignment\StoreStudentDetails\StoreStudentDetails\obj\Debug\StoreStudentDetails.exe
+F:\Linq Assignment\StoreStudentDetails\StoreStudentDetails\obj\Debug\StoreStudentDetails.pdb
